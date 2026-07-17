@@ -1,6 +1,6 @@
 # Yo 🐟
 
-My name is Matvey and I'm 17 y.o. Python developer from Belarus. At this point I'm doing some things for fun, trying to see how far I can go with my experiments. Currently I'm interested in Python and diving deeper into it. I have some projects in my profile that I made for hobbying or just for fun. I use LINUX MINT BTW — simple, stable, and just works.
+My name is Matvey and I'm 17 y.o. Python developer from Belarus. At this point I'm doing some things for fun, trying to see how far I can go with my experiments. Currently I'm interested in Python and diving deeper into it. I have some projects in my profile that I made for hobbying or just for fun.
 
 ## 🔍 Technologies & Tools (that I had experience in)
 
